@@ -1,4 +1,4 @@
 print(' =')
-print("/ \\")
+print("/ \ ")
 print(') (')
 print('[_]')
